@@ -4,9 +4,9 @@
 
     LANGUAGE                      TOOL
    ------------------------------------------------------
-1. JAVA                          MVN
-2. .net                          NUGET
-3. JS/CSS                        BOWER COMPONENTS  & NPM
+1. JAVA   -----                                               MVN  tool
+2. .net   -----                                              NUGET tool
+3. JS/CSS   -----                                             BOWER COMPONENTS  & NPM tool
 
 
 
@@ -29,3 +29,6 @@ for managing front end components like html, css, js ]]]]
   https://bower.io/
                                                                                               
                                                                               
+4.look in index.html, we have added bower components link and also have connected with controller js pages(this asusal)
+
+    
